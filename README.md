@@ -28,7 +28,7 @@ Run `run_preprocessing.py`, and you will:
 - stem tokens (if necessary)
 
 #### Analyze
-Run ...., and you will get term frequency metrix and histogram.  
+Run ...., and you will get term frequency histogram.  
 
  
 
