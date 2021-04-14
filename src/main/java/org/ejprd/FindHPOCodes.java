@@ -25,10 +25,23 @@ public class FindHPOCodes
         BufferedWriter bw = new BufferedWriter(fw);
 
         Scanner s = new Scanner(input);
+        boolean startFromFound = false;
 
         while(s.hasNextLine())
         {
             String request = s.nextLine();
+
+//            if(request.equals("- start from this term if some problem occurred- "))
+//            {
+//                startFromFound = true;
+//                continue;
+//            }
+//
+//            if(!startFromFound)
+//            {
+//                continue;
+//            }
+
             if(request.isEmpty())
             {
                 bw.write(LE);
