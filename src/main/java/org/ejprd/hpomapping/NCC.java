@@ -1,4 +1,4 @@
-package org.ejprd;
+package org.ejprd.hpomapping;
 
 import javax.net.ssl.HttpsURLConnection;
 import javax.net.ssl.SSLContext;

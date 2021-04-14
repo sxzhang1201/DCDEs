@@ -1,4 +1,4 @@
-package org.ejprd;
+package org.ejprd.hpomapping;
 
 import java.io.File;
 
