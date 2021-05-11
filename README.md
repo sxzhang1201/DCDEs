@@ -1,3 +1,1 @@
-Notes there are two branches:
-- Clemence 
-- Shuxin 
+Please See Development in Branch.
