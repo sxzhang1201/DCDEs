@@ -1,6 +1,8 @@
 # DCDEs
 Attempt to sort ERNs data dictionaries into domain lists with variables in common
 
+## May 20th
+Run `run_preprocessing.py`, and you will get document-term matrix as a csv file.
 
 
 ## Explanation of Scripts (Temporary)
